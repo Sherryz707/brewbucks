@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 function BoomItem({ category }) {
   return (
     <div className="p-6">
-      <h2 className="text-xl font-semibold capitalize">
+      <h2 className="text-xl font-semibold capitalize text-primary">
         {category.depth.parent}
       </h2>
       <div className="divider"></div>

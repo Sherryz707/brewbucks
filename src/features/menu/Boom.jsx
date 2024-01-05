@@ -13,7 +13,7 @@ function Boom() {
 
   return (
     <div className="min-h-screen m-3 bg-base-200 rounded-xl">
-      <h1 className="text-3xl font-bold text-left m-3 py-6">Menu</h1>
+      <h1 className="text-3xl font-bold text-left m-3 py-6 text-primary">Menu</h1>
       <div className=" grid grid-cols-1 md:grid-cols-2">
         {menu.map((el) => (
           <BoomItem category={el} />
