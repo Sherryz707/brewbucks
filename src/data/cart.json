@@ -1,0 +1,23 @@
+{
+  "_id": "64fdecaefec97ae8dbd458e3",
+  "last_modified": "2023-09-10T16:38:01.110Z",
+  "status": "complete",
+  "customer": "Jonas",
+  "phone": "123456789",
+  "address": "Arroios, Lisbon , Portugal",
+  "estimatedDelivery": "2027-04-25T10:00:00",
+  "items": [
+    {
+      "_id": "6507154cd3b36a7c02fadcfd",
+      "name": "blonde-roast",
+      "sku": "64fdec88fec97ae8dbd458dd",
+      "qty": 2,
+      "standard": ["signature espresso roast"],
+      "extra": ["warm milk", "apple brown syrups"],
+      "unitPrice":50,
+      "totalPrice": 100
+    }
+  ],
+  "position": "-9.000,38.000",
+  "orderPrice": 95
+}

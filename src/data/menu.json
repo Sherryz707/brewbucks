@@ -1,0 +1,104 @@
+{
+    "status": "success",
+    "results": 5,
+    "data": {
+        "doc": [
+            {
+                "_id": "650169c9b9905857c15a8048",
+                "name": "A Death Supreme Chocolate",
+                "sizeVariation": [
+                    {
+                        "size": "regular",
+                        "price": 100
+                    },
+                    {
+                        "size": "small",
+                        "price": 90
+                    },
+                    {
+                        "size": "large",
+                        "price": 50
+                    }
+                ],
+                "ratingAverage": 4.5,
+                "ratingQuantity": 2
+            },
+            {
+                "_id": "65071385d3b36a7c02fadcd0",
+                "name": "New York Hi!",
+                "sizeVariation": [
+                    {
+                        "size": "regular",
+                        "price": 100
+                    },
+                    {
+                        "size": "small",
+                        "price": 90
+                    },
+                    {
+                        "size": "large",
+                        "price": 50
+                    }
+                ],
+                "ratingAverage": 4,
+                "ratingQuantity": 0
+            },
+            {
+                "_id": "650713d7d3b36a7c02fadcd7",
+                "name": "Cappucino",
+                "sizeVariation": [
+                    {
+                        "size": "regular",
+                        "price": 100
+                    },
+                    {
+                        "size": "small",
+                        "price": 90
+                    },
+                    {
+                        "size": "large",
+                        "price": 50
+                    }
+                ],
+                "ratingAverage": 4,
+                "ratingQuantity": 0
+            },
+            {
+                "_id": "6507140dd3b36a7c02fadcdf",
+                "name": "Blonde Roast",
+                "sizeVariation": [
+                    {
+                        "size": "regular",
+                        "price": 100
+                    },
+                    {
+                        "size": "small",
+                        "price": 90
+                    },
+                    {
+                        "size": "large",
+                        "price": 50
+                    }
+                ],
+                "ratingAverage": 4,
+                "ratingQuantity": 0
+            },
+            {
+                "_id": "6507152ed3b36a7c02fadcf6",
+                "name": "Dark Roast",
+                "sizeVariation": [
+                    {
+                        "size": "regular",
+                        "price": 100
+                    },
+                    {
+                        "size": "small",
+                        "price": 90
+                    }
+                ],
+                "ratingAverage": 4,
+                "ratingQuantity": 0
+            }
+        ]
+    }
+}
