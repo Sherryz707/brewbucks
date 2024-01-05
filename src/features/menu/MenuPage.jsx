@@ -27,7 +27,7 @@ function MenuPage() {
   return (
     <>
       <div className="lg:grid min-h-full lg:grid-cols-[0.5fr_2fr]">
-        <div className="menu w-full bg-base-300 hidden lg:block">
+        <div className="menu w-full bg-base-300 hidden lg:block my-3 rounded-lg">
           <SidebarNav origCateg={menu} category={menu} index={0} />
         </div>
         <Outlet />
